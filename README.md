@@ -139,6 +139,9 @@ Page: 6
 Page: 8
 ```
 
+
+<img width="826" height="653" alt="image" src="https://github.com/user-attachments/assets/a3019f93-4bba-4ec2-9840-aab9ca9fae0c" />
+
 ---
 
 ## Running the Web App
