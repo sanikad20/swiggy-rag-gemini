@@ -80,7 +80,7 @@ swiggy_rag_gemini/
 ### 1. Clone the repository
 
 ```
-git clone <repository_url>
+git clone <https://github.com/sanikad20/swiggy-rag-gemini>
 cd swiggy_rag_gemini
 ```
 
